@@ -3,3 +3,5 @@ On the `recover` page (accessed when clicking Forgot password on the login page)
 In the `Submit` form, change the value of the `mail` input (change the maxlength if needed), this will "send" a recovery mail to our changed mail and show us the flag
 
 > To prevent such issues, never put sensitive form data in the frontend where it can be changed easily.
+
+This is an **Insufficient Verification of Data Authenticity** a kind of **Software and Integrity Failure**

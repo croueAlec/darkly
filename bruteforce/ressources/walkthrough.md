@@ -7,3 +7,5 @@ Script usage `./bruteforce.sh <address> <password input file>`
 We could also have used the burp suite but this script is easier to use for small lists.
 
 > To prevent this security risk, we must apply a strong password policy. Furthermore we could use a service such as fail2ban to prevent long automated attacks.
+
+This is a **Security Logging and Monitoring Failure**
