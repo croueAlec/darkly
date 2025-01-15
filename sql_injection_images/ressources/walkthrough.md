@@ -5,7 +5,7 @@ We know it exists, we just can't access it from here.
 On the `Search Image` page it works.
 We get a md5 hash. `1928e8083cf461a51303633093573c46` -> https://www.dcode.fr/fonction-hash -> "albatroz"
 
-Finally to get the flag we do ``echo -n "albatroz" | md5sum``
+Finally to get the flag we do ``echo -n "albatroz" | sha256sum``
 
 > This is an injection as well, inputs still need to be sanitized. For instance using **Prepared Statements**
 
