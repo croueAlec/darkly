@@ -3,6 +3,13 @@
 A Web Security project based on a virtual machine provided on the project page.
 We have to find, exploit and explain **14** security breaches in the website. They range from true security issues such as weak passwords (exploited with bruteforce), SQL injections to CTFs (exploited using crawlers).
 
+## Setting up the project
+
+To set-up the project we need to download the Darkly ISO from the intra project page.  
+Once done we create a new VM with at least 2048 RAM and 1 Cores.  
+Then we under `File > Tools > Network Manager` we make sure there is at least one `Host-only Network`. If not we `Create` it.  
+Finally we go to the VM Settings and under `Network` we change `Attached to:` **Host-only Adapter**.  
+Once that is done we can boot the VM. 
 
 ## A few useful tools
 
