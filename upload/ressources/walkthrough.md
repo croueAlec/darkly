@@ -1,4 +1,4 @@
-We want to upload a php script (since the stack uses php), to use a reverse shell for example, to remotely execute the uploaded file.
+On the upload page. We want to upload a php script (since the stack uses php), to use a reverse shell for example, to remotely execute the uploaded file.
 Alas, we cannot upload a php file, since the server only allows jpg files.
 
 The data is sent through a **POST** request, using the multipart/form-data type.
