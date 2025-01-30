@@ -19,6 +19,8 @@ https://www.kali.org/tools/dirb/ ~ **Dirb** a web scanner.
 
 https://portswigger.net/burp ~ **Burp** an all around useful audit tool containing a bruteforcer, a crawler and others.  
 
+https://github.com/vanhauser-thc/thc-hydra ~ **Hydra** a multi-protocol bruteforcer tool.  
+
 https://md5decrypt.net/ and https://www.dcode.fr/fonction-hash ~ **Hash decryption** both links are useful for hash decrytion, the second one is weaker but tests a few at the same time.
 
 ## A few useful commands
